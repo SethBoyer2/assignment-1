@@ -51,3 +51,16 @@ With version control, it is possible to:
 - Control & Restrict access to certain parts of projects, allowing for easy collaboration and management without any hassle or worry
 
 - Annotated changes allow users to make changes with quick summaries of changes made, making it easy for team members to keep track of what has and has not been done, as well as track contributions from each team member
+
+## Purpose of the following Git Commands
+
+- `git init`: Takes regular folder and turns it into local repository
+- `git status`: Tells you what's going on (Files staged for commit, what branch you are working in)
+- `git add`: stages files to prepare them for commit
+- `git commit`: Commits your changes locally
+- `git push`: Takes committed changes and pushes them to the remote repository
+- `git pull`: Takes changes from a remote repo and merges them to your current branch
+- `git log`: displays a list of commits, along with their comments, as well as the date and time they were committed
+- `git branch`: Displays your current branch
+- `git merge`: used to merge branches. 
+- `git checkout`: Used to change branches (ie. swap from main to branch-3)
