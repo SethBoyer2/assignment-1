@@ -63,4 +63,13 @@ With version control, it is possible to:
 - `git log`: displays a list of commits, along with their comments, as well as the date and time they were committed
 - `git branch`: Displays your current branch
 - `git merge`: used to merge branches. 
-- `git checkout`: Used to change branches (ie. swap from main to branch-3)
+- `git checkout`: Used to change branches or create new branches
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I send yeat guitar remixes to the class chat
+- I drink so much water
+- I, unlike many others, need to breathe oxygen to live
+- I am a very conscientious person
