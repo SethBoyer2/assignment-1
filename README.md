@@ -32,3 +32,22 @@ Changes not staged for commit:
         modified:   README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+## Purpose of the following Commands:
+
+- `mkdir`: Creates a new directory.
+- `cd`: Changes your present working directory.
+- `code`: used to open a file in your code editor. Ie Code README.md will open readme in your default code editor.
+- `ls`: Lists all files and other directories within your present working directory.
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- Branch & Merge different versions of the same project, allowing users to work on different issues at the same time, or take the project and go in a completely different direction, without having to worry about different versions getting mixed up
+
+- easily undo and track changes made to files and directories
+
+- Control & Restrict access to certain parts of projects, allowing for easy collaboration and management without any hassle or worry
+
+- Annotated changes allow users to make changes with quick summaries of changes made, making it easy for team members to keep track of what has and has not been done, as well as track contributions from each team member
